@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 66d1438956091894da2395c47378e634
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - TaskData: {fileID: 11400000, guid: fe9f6038292a64541be7a842e1410a79, type: 2}
+  - "\u9802\u7AEF\u6307\u5411\u7BAD\u982D": {instanceID: 0}
+  - "\u5E95\u7AEF\u6307\u5411\u7BAD\u982D": {instanceID: 0}
+  - "Cell\u55AE\u4F4D": {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2eb8c924aa2271408c3112fb7eeb619, type: 3}
+  m_Name: AnsData
+  m_EditorClassIdentifier: 
+  AnsStorage:
+  - "My name is Jeff.\r"
+  - I am not bored.
+  - I'm a girl.
+  - I AM 22 years old.
+  - My birthday is on March 23rd, 1999.
+  - "I come from Taipei.\r"
+  - "There are two people in my family.\r"
+  - "I have one sister sister.\r"
+  - "I have one brother brother.\r"
+  - "My father is teacher.\r"
+  - "My mother is teacher.\r"
+  - "I like to read books.\r"
+  - "I like to read books after school.\r"
+  - "I like to wear jeans when I go out.\r"
+  - "I like to wear sneakers.\r"
+  - "My favorite sport is badminton.\r"
+  - "My favorite color is blue.\r"
+  - "My favorite food is steak.\r"
+  - "My favorite drink is juice.\r"
+  - "My favorite subject is English.\r"
+  - "I want to be a teacher.\r"
+  - "I want to be a teacher.\r"

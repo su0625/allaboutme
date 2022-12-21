@@ -1,0 +1,22 @@
+What is your name?
+Are you a brave person? If not, what kind of person are you?
+Are you a boy or a girl? 
+How old are you?
+When is your birthday?
+Where are you from? 
+How many people are there in your family?
+Do you have sisters? How many sisters do you have? 
+Do you have brothers? How many brothers do you have?
+What does your father do?
+What does your mother do?
+In your free time, what do you like to do?
+What do you like to do after school?
+What kind of clothes do you like to wear?
+What kind of shoes do you like to wear? 
+What is your favorite sport?
+What color do you like?
+What is your favorite food? 
+What kind of drink do you like?
+What is your favorite subject?
+What do you want to be when you grow up?
+Which country would you like to visit in the future? 
